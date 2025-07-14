@@ -21,13 +21,13 @@ This repo provides a starting point for users who want to create valid Terraform
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | ~>4.0 |
+| <a name="requirement_aws"></a> [aws](#requirement\_aws) | 5.57.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | ~>4.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | 5.57.0 |
 
 ## Modules
 
@@ -37,8 +37,8 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [aws_organizations_organization.org_root](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/organizations_organization) | data source |
-| [aws_organizations_organizational_units.org_ous](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/organizations_organizational_units) | data source |
+| [aws_organizations_organization.org_root](https://registry.terraform.io/providers/hashicorp/aws/5.57.0/docs/data-sources/organizations_organization) | data source |
+| [aws_organizations_organizational_units.org_ous](https://registry.terraform.io/providers/hashicorp/aws/5.57.0/docs/data-sources/organizations_organizational_units) | data source |
 
 ## Inputs
 
